@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/nav_zkr"
+        android:icon="@drawable/ic_baseline_zkr_24"
+        android:title="Zkr"/>
+
+    <item
+        android:id="@+id/nav_diary"
+        android:icon="@drawable/ic_diary_24"
+        android:title="Diary"/>
+
+    <item
+        android:id="@+id/nav_meditate"
+        android:icon="@drawable/ic_baseline_flare_24"
+        android:title="Meditate"/>
+
+    <item
+        android:id="@+id/nav_sleep"
+        android:icon="@drawable/ic_baseline_logout_24"
+        android:title="Logout"/>
+</menu>
