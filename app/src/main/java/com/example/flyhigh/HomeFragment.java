@@ -95,14 +95,6 @@ public class HomeFragment extends Fragment {
                     String q = (String) quote.getString("q");
                     System.out.println("TEst test test");
 
-
-
-//                    for (int i = 0; i < jsonArray.length(); i++){
-//                        JSONObject quote = jsonArray.getJSONObject(i);
-//
-//                        String quotes = quote.getString("q");
-//                        System.out.println(quotes);
-//                    }
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
